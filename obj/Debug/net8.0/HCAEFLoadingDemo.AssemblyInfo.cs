@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HCAEFLoadingDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51a87426a3a040df54f652b835d39c57674c4fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476e7f93b9c6fa05657701273ec186f88d91684b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HCAEFLoadingDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HCAEFLoadingDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
