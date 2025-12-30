@@ -1,24 +1,25 @@
-# Visual Studio files
+# Visual Studio
 .vs/
-bin/
-obj/
-Debug/
-Release/
-
-# User-specific files
-*.user
 *.suo
+*.user
 *.userosscache
 *.sln.docstates
-
 # Build results
-[Bb]uild/
+bin/
+obj/
 [Dd]ebug/
+[Dd]ebugPublic/
 [Rr]elease/
-
-# NuGet packages
-packages/
-*.nupkg
-
-# Logs
-*.log
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+# Other
+*.db
+*.db-shm
+*.db-wal
+.dtbcache.v2
+```
